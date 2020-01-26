@@ -1,7 +1,7 @@
 {
   "name": "posthtml-plugin-link-preload",
   "description": "PostHTML plugin removes duplicated elements",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "author": "Maurizio Lupo <maurizio.lupo@gmail.com>",
   "ava": {
     "verbose": "true"
